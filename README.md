@@ -1,2 +1,4 @@
-# PTUD
-Phát triển ứng dụng
+# PHÁT TRIỂN ỨNG DỤNG
+
+> **PHÁT TRIỂN ỨNG DỤNG**
+> `APPLICATION DEVELOPMENT`
